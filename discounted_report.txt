@@ -1,0 +1,8 @@
+product    |   price   |   discounted price
+mouse      |   500     |   447.5
+keyboard      |   800     |   716.0
+monitor      |   7000     |   6265.0
+pendrive      |   400     |   358.0
+camera      |   5000     |   4475.0
+total of discounted prices is: 12261.5
+average of discounted prices is: 895.0
